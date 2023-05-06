@@ -119,11 +119,11 @@ window.onload = function () {
 }
 // 百度统计代码开始，请删除或者修改成自己的
 var _hmt = _hmt || [];
-(function () {
-	var hm = document.createElement("script");
-	hm.src = "https://hm.baidu.com/hm.js?b556d06a5110a1a17fa2ceb5cb8a4acb";
-	var s = document.getElementsByTagName("script")[0];
-	s.parentNode.insertBefore(hm, s);
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?560e13380b667c9fde4ca555f4cdbbc7";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
 })();
 // 百度统计代码结束
 
