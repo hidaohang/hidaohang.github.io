@@ -121,7 +121,7 @@ window.onload = function () {
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?560e13380b667c9fde4ca555f4cdbbc7";
+  hm.src = "https://hm.baidu.com/hm.js?82795548732187a65e2e249aa1f0076f";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
